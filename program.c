@@ -7,6 +7,7 @@ int main()
     printf("üçüncü versiyon fatmanur");
     printf("dördüncü versiyon hazal");
     printf("beşinci versiyon fatmanur");
+    printf("altıncı versiyon hazal");
 
     return 0;
 }
